@@ -11,6 +11,7 @@ get '/new' do
 end
 
 post '/puppy' do
+  @
   erb :display_puppy
 end
 
