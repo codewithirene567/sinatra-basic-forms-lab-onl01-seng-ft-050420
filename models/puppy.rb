@@ -8,7 +8,7 @@ class Puppy
     @age = age
   end
 
-  def age(months)
+  def months
     Age: "#{months)"
   end
 
