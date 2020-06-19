@@ -8,16 +8,4 @@ class Puppy
     @age = age
   end
 
-  def name
-    @name
-  end
-
-  def breed
-    @breed
-  end
-
-  def age
-    age.count
-    "#{months}"
-  end
 end
