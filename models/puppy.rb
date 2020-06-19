@@ -10,7 +10,7 @@ class Puppy
 
   def name
     @name
-  end 
+  end
 
   def breed
     @breed
