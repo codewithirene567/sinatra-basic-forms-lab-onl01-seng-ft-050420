@@ -9,7 +9,7 @@ class Puppy
   end
 
   def age(months)
-    age(months)
+    Age:"#{months)"
   end
 
 end
