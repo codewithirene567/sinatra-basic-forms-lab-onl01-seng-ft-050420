@@ -17,6 +17,7 @@ class Puppy
   end
 
   def age
-    @age.count
+    age.count
+    "#{age}"
   end
 end
