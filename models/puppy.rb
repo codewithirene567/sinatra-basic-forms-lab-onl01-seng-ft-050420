@@ -9,7 +9,7 @@ class Puppy
   end
 
   def months
-    "#{months)"
+    "#{months}"
   end
 
 end
