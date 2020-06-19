@@ -8,4 +8,8 @@ class Puppy
     @age = age
   end
 
+  def age(months)
+    age(months)
+  end
+
 end
