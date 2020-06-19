@@ -9,7 +9,7 @@ class Puppy
   end
 
   def months
-    Age: "#{months)"
+    "#{months)"
   end
 
 end
