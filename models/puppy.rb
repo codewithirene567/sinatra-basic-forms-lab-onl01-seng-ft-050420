@@ -18,6 +18,6 @@ class Puppy
 
   def age
     age.count
-    "#{age}"
+    "#{months}"
   end
 end
