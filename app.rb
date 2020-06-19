@@ -11,8 +11,9 @@ get '/new' do
 end
 
 post '/puppy' do
-  @puppy = Puppy.new.initialize(params[:name, :breed, :age])
   binding.pry
+  @puppy = Puppy.new.initialize(params[:name, :breed, :age])
+  
   erb :display_puppy
 end
 
